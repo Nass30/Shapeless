@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		463622F924841AF20096DDE1 /* noIdea.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = noIdea.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		463622F924841AF20096DDE1 /* ShapeLess.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShapeLess.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		463622FC24841AF20096DDE1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		463622FE24841AF20096DDE1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		4636230024841AF20096DDE1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		463622FA24841AF20096DDE1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				463622F924841AF20096DDE1 /* noIdea.app */,
+				463622F924841AF20096DDE1 /* ShapeLess.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -78,9 +78,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		463622F824841AF10096DDE1 /* noIdea */ = {
+		463622F824841AF10096DDE1 /* ShapeLess */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4636230D24841AF40096DDE1 /* Build configuration list for PBXNativeTarget "noIdea" */;
+			buildConfigurationList = 4636230D24841AF40096DDE1 /* Build configuration list for PBXNativeTarget "ShapeLess" */;
 			buildPhases = (
 				463622F524841AF10096DDE1 /* Sources */,
 				463622F624841AF10096DDE1 /* Frameworks */,
@@ -90,9 +90,9 @@
 			);
 			dependencies = (
 			);
-			name = noIdea;
+			name = ShapeLess;
 			productName = noIdea;
-			productReference = 463622F924841AF20096DDE1 /* noIdea.app */;
+			productReference = 463622F924841AF20096DDE1 /* ShapeLess.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -110,7 +110,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 463622F424841AF10096DDE1 /* Build configuration list for PBXProject "noIdea" */;
+			buildConfigurationList = 463622F424841AF10096DDE1 /* Build configuration list for PBXProject "ShapeLess" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -123,7 +123,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				463622F824841AF10096DDE1 /* noIdea */,
+				463622F824841AF10096DDE1 /* ShapeLess */,
 			);
 		};
 /* End PBXProject section */
@@ -293,7 +293,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = laughtale.noIdea;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ShapeLess;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -312,7 +312,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = laughtale.noIdea;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ShapeLess;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -321,7 +321,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		463622F424841AF10096DDE1 /* Build configuration list for PBXProject "noIdea" */ = {
+		463622F424841AF10096DDE1 /* Build configuration list for PBXProject "ShapeLess" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4636230B24841AF40096DDE1 /* Debug */,
@@ -330,7 +330,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4636230D24841AF40096DDE1 /* Build configuration list for PBXNativeTarget "noIdea" */ = {
+		4636230D24841AF40096DDE1 /* Build configuration list for PBXNativeTarget "ShapeLess" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4636230E24841AF40096DDE1 /* Debug */,

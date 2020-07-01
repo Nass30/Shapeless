@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:noIdea.xcodeproj">
+      location = "self:/Users/vegapunk/Documents/Xcode Project/noIdea/ShapeLess.xcodeproj">
    </FileRef>
 </Workspace>

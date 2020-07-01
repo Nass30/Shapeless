@@ -40,7 +40,7 @@
 		463622F024841AF10096DDE1 = {
 			isa = PBXGroup;
 			children = (
-				463622FB24841AF20096DDE1 /* noIdea */,
+				463622FB24841AF20096DDE1 /* ShapeLess */,
 				463622FA24841AF20096DDE1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		463622FB24841AF20096DDE1 /* noIdea */ = {
+		463622FB24841AF20096DDE1 /* ShapeLess */ = {
 			isa = PBXGroup;
 			children = (
 				463622FC24841AF20096DDE1 /* AppDelegate.swift */,
@@ -64,7 +64,7 @@
 				4636230A24841AF40096DDE1 /* Info.plist */,
 				4636230424841AF40096DDE1 /* Preview Content */,
 			);
-			path = noIdea;
+			path = ShapeLess;
 			sourceTree = "<group>";
 		};
 		4636230424841AF40096DDE1 /* Preview Content */ = {
